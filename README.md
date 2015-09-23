@@ -2,7 +2,7 @@
 =========
 
 RSingleTickerView is TickerView for Swift
-
+Sample movie : https://youtu.be/fNjUK7iolxM
 
 ##Simple Usage##
 
