@@ -1,8 +1,8 @@
 # RSingleTickerView
 =========
 
-RSingleTickerView is TickerView for Swift
-Sample movie : https://youtu.be/fNjUK7iolxM
+    RSingleTickerView is TickerView for Swift
+    Example : https://youtu.be/fNjUK7iolxM
 
 ##Simple Usage##
 
@@ -15,7 +15,7 @@ Sample movie : https://youtu.be/fNjUK7iolxM
 
 
 ##Methods##
-    
+
     startWithDelay(DelaySeconds:Float)
     start()
     stopWithReset()
