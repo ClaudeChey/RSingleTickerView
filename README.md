@@ -1,2 +1,2 @@
 # RSingleTickerView
-TickerView for Swift
+Single text TickerView for Swift
