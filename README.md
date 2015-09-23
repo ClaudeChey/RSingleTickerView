@@ -1,5 +1,4 @@
 # RSingleTickerView
-=========
 
 RSingleTickerView is TickerView for Swift
 <br />
